@@ -1,0 +1,14 @@
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Candidato.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/DAO/CandidatoDAO.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Voto.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/controller/VotanteServlet.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/utils/ConnectionDB.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/DAO/TipoDocumentoDAO.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Eleccion.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Votante.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/DAO/EstamentoDAO.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Estamento.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/controller/CandidatoServlet.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/DAO/VotanteDAO.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/DAO/EleccionDAO.java
+/home/kevintoro/Escritorio/development/Java/EleccionesElectronicasJPA/src/main/java/com/ufps/web/EleccionesElectronicasJPA/models/Tipodocumento.java
